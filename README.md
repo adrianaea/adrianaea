@@ -46,11 +46,5 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=adrianaea&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaea&show_icons=true&locale=en&layout=compact" alt="adrianaea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianaea&show_icons=true&locale=en" alt="adrianaea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianaea&" alt="adrianaea" /></p>
+ Proudly created with GPRM ( https://gprm.itsvg.in ) 
+ and (https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
