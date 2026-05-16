@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianaea" alt="adrianaea" /></a> </p>
 
 <a href="https://github.com/adrianaea">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianaea&theme=dark&hide_border=false&title_color=e69bb5&icon_color=e69bb5&include_all_commits=true&count_private=true" alt="Adriana's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianaea&layout=compact&theme=dark&hide_border=false&title_color=e69bb5&icon_color=e69bb5" alt="Top languages" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianaea&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Adriana's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianaea&layout=compact&theme=dark&hide_border=false&" alt="Top languages" />
 </a>
 
-![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&title_color=e69bb5&icon_color=e69bb5&icon_color=e69bb5&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&hide_border=false)<br/>
 
 
 <!--
