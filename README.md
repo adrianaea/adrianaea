@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianaea" alt="adrianaea" /></a> </p>
 
 
-![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&hide_border=false) <br/>
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianaea&layout=compact&theme=dark&hide_border=false&" alt="Top languages" />
 
 
