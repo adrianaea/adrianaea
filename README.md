@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianaea&layout=compact&theme=dark&hide_border=false&title_color=e69bb5&icon_color=e69bb5" alt="Top languages" />
 </a>
 
-![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=adrianaea&theme=dark&title_color=e69bb5&icon_color=e69bb5&hide_border=false)<br/>
 
 
 <!--
