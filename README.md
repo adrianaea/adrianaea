@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 
 
 
+<a href="https://github.com/adrianaea">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianaea&show_icons=true&hide_border=true&title_color=e69bb5&icon_color=e69bb5&text_color=555555&bg_color=fdf2f8&include_all_commits=true&count_private=true" alt="Adriana's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianaea&layout=compact&hide_border=true&title_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Top languages" />
+</a>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=adrianaea&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adrianaea&theme=ambient_gradient&hide_border=true)<br/>
