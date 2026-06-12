@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓 Recent Grad from University of Central Florida<br>🔭 Information Technology<br>💻 Digital Media Minor <br>✨ Web Design and Developing<br>🧸 my portfolio site: https://adrianaea.github.io/adrianaabreu-site/
+🎓 Recent Grad from University of Central Florida<br>🔭 Information Technology<br>💻 Digital Media Minor <br>✨ Web Design and Developing<br>🧸 my portfolio site: https://adrianaea.com/
 
 
 ## 🌐 Socials:
